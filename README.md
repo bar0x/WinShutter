@@ -1,5 +1,5 @@
 # Win Shutter 
-## by Mattia Baroni
+*by Mattia Baroni*
 
 This script pings Google.com's dns until the ping don't works.
 
