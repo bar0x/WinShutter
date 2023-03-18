@@ -1,8 +1,8 @@
 # Win Shutter 
 *by Mattia Baroni*
 
-This script pings Google.com's dns until the ping don't works.
+This script pings Google.com's DNS repeatedly until the ping fails. Once the ping fails, a 60-second timer will start. 
 
-when this happens, a 60 seconds timer will start. at the end of the timer windows will shut down.
+At the end of the timer, the Windows system will shut down.
 
-to cancel the incoming shut down just open the cmd and tipe "SHUTDOWN -A" until the 60 seconds.
+If you wish to cancel the shutdown before the 60 seconds are up, open the command prompt and type "SHUTDOWN -A".
